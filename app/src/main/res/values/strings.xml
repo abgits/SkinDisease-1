@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">SkinDiseaseDetectionApp</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="welcome">Welcome</string>
+    <string name="app">App</string>
+    <string name="dummy_name">Dummy Name</string>
+    <string name="denied">"Tidak mendapatkan permission."</string>
+    <string name="failedCamera">Tidak dapat memunculkan Kamera</string>
+    <string name="logo">logo</string>
+</resources>
